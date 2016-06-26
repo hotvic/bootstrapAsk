@@ -1,0 +1,28 @@
+{
+  "name": "bootstrapask",
+  "version": "1.0.0",
+  "description": "A jQuery/Bootstrap highly customizable confirmation plugin.",
+  "main": "dist/js/jquery.bsAsk.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hotvic/bootstrapAsk.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "jquery",
+    "bootstrap-confirmation"
+  ],
+  "author": "Victor A. Santos <victoraur.santos@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/hotvic/bootstrapAsk/issues"
+  },
+  "homepage": "https://github.com/hotvic/bootstrapAsk",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-minify": "0.0.12"
+  }
+}
